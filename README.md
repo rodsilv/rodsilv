@@ -4,7 +4,6 @@
 - <a href='https://www.driven.com.br/'><img width='15px' src='https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg' alt="Driven Education" /></a>  Em formação FullStack Web Development na Driven
 - 🌱 Atualmente estou aprendendo JavaScript
 - <a href='https://www2.ifsc.usp.br/portal-ifsc/' >📚</a> Estudante de física computacional na USP
-- 💬 Pergunte-me sobre **HTML** e **CSS**
 
 ## **Linguagem e ferramentas:**
 
